@@ -1,0 +1,53 @@
+.container{
+	width:700px;
+	margin:0 auto;
+}
+li{
+	display:inline-block;
+}
+.menu{
+	border-top: solid #000 1px;
+	border-bottom: solid #000 1px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+img{
+	width:700px;
+	height:auto;
+}
+p{
+	text-align: center;
+}
+.raya{
+	border-bottom: solid #000 1px;
+	margin: 40px;
+	width: 60px;
+	position: relative;
+	left:290px;
+}
+.linea{
+	border-bottom:solid #000 2px;
+	margin: 20px;
+	width: 80px;
+}
+.profile{
+	display:inline;
+	margin:10px;
+}
+.separacion{
+	border-right:solid #000 1px;
+	margin-left: 5px;
+	padding-right: 5px;
+}
+img{
+    width:200px;
+	height: 200px;
+}
+.burbuja{
+	border-radius: 100%;
+	position:relative;
+	left:250px;
+}
+h1{
+	text-align: center;
+}
